@@ -105,6 +105,7 @@ exercício anterior você deve ter descoberto como calcular a
 raiz quadrada de um número;
 <p><b>b.</b>Leia da entrada padrão um valor para x e imprima o valor de p(x);
 
+### Exercício 5: Operadores bit a bit
 
 # Autores
 
